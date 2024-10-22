@@ -4,6 +4,8 @@ Figma Your Life Project#2
 
 BY: Anthony Duran
 
+10/22/2024  Project#2 Figma Your Life
+
 Peer Reviewed By: Juan Heredia 
 "Kinda bare bones but it does what it needs to do with no problem, maybe remove the dropdown since it doesn't really do anything (unless it's supposed to be a form of meta-irony?) besides that the navbar works fine, wish it was a little more colorful like the pages themselves."
 ____________________________________________________________________________________________________________
