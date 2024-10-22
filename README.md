@@ -4,6 +4,7 @@ Figma Your Life Project#2
 
 BY: Anthony Duran
 
+Peer Reviewed By:
 ____________________________________________________________________________________________________________
 
 ### Title: **Figma your Life**
