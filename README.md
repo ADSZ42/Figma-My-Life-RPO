@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ---
 
-#### **Make a Figma about your life. **
+#### **Make a Figma about your life.**
 You will create a prototype of a website about your life and be functional 
 
 (If you are not comfortable with putting out personal information create one about an influential person)
